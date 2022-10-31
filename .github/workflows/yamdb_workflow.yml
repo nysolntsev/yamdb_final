@@ -1,5 +1,5 @@
 name: Django-app workflow
-
+#technical comment
 on: [push]
 
 jobs:
