@@ -1,8 +1,6 @@
 from django.db import models
-
 from titles.models import Title
 from users.models import User
-
 
 choice_score = list((i, i) for i in range(1, 11))
 
