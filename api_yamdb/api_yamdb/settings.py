@@ -3,8 +3,6 @@ from datetime import timedelta
 
 from dotenv import load_dotenv
 
-export DJANGO_SETTINGS_MODULE = api_yamdb.settings
-
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 load_dotenv()
