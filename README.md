@@ -1,8 +1,9 @@
-![example workflow](https://github.com/nysolntsev/<yamdb_final>/actions/workflows/yamdb_workflow.yml/badge.svg)
-
 # Описание
 
 Проект YaMDb, который собирает отзывы пользователей на произведения
+
+![example workflow](https://github.com/nysolntsev/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
+
 # Установка
 
 1) Склонировать репозиторий
