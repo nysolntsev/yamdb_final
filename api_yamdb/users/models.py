@@ -19,6 +19,7 @@ class UserManager(UserManager):
             **extra_fields
         )
 
+
 class User(AbstractUser):
     CHOICES = (
         ('user', 'user'),
